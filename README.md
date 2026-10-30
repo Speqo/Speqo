@@ -1,8 +1,4 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qateralong/qateralong/output/snake-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/Speqo/Speqo/snake.svg" alt="contribution snake"/>
-  </picture>
 </p>
 
 <p align="center">
