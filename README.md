@@ -5,6 +5,12 @@
 <h1 align="center">Speqo</h1>
 
 <p align="center">
+  <a href="https://t.me/akldvv"><img src="https://img.shields.io/badge/Telegram-@akldvv-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://ldmb.ru"><img src="https://img.shields.io/badge/LDMB-ldmb.ru-6b5bff?style=for-the-badge" alt="LDMB" /></a>
+  <a href="https://beta.ldmb.ru"><img src="https://img.shields.io/badge/Beta-beta.ldmb.ru-8f6bff?style=for-the-badge" alt="Beta" /></a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Speqo&show_icons=true&hide_border=true" alt="stats" />
 </p>
 
