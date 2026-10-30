@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420" alt="" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qateralong/qateralong/output/snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/qateralong/qateralong/output/snake.svg" alt="contribution snake"/>
+  </picture>
 </p>
 
 <p align="center">
