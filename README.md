@@ -1,8 +1,16 @@
-# Speqo
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="420" alt="coding" />
+</p>
 
-![stats](https://github-readme-stats.vercel.app/api?username=Speqo&show_icons=true&hide_border=true)
+<h1 align="center">Speqo</h1>
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Speqo&layout=compact&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Speqo&show_icons=true&hide_border=true" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Speqo&layout=compact&hide_border=true" alt="top langs" />
+</p>
 
 ## Контакты
 
@@ -11,7 +19,9 @@
 
 ## Проекты
 
-- LDMB — математическая платформа соревнований и задач: [ldmb.ru](https://ldmb.ru)
-  - Новый интерфейс: [beta.ldmb.ru](https://beta.ldmb.ru)
+- LDMB — математическая платформа: [ldmb.ru](https://ldmb.ru)
+- Новый интерфейс: [beta.ldmb.ru](https://beta.ldmb.ru)
 
-![activity](https://github-readme-activity-graph.vercel.app/graph?username=Speqo&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Speqo&hide_border=true" alt="activity" />
+</p>
